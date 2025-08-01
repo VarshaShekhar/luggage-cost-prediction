@@ -75,5 +75,5 @@ Built using 160 samples of real-world data.
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
-- 📧 varshaiyer96@gmail.com
+- [Gmail📧](varshaiyer96@gmail.com)
 
