@@ -3,7 +3,7 @@
 A mini machine learning project built during my AI/ML postgraduate program at BITS Pilani. It predicts the cost of luggage bags based on real product data using various gradient descent techniques.
 
 ---
-![Project Thumbnail](thumbnail.jpg)
+![Project Thumbnail](thumbnail.jpeg)
 
 ## 🔍 Problem Statement
 
