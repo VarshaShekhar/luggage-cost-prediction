@@ -72,6 +72,11 @@ Built using 160 samples of real-world data.
 
 ---
 
+## 🧾 Note
+
+- This project is intended for learning and demonstration purposes
+- 
+---
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
