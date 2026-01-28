@@ -1,6 +1,6 @@
-# 🎒 Luggage Bag Cost Prediction — Linear Regression Project
+# 🎒 Luggage Cost Prediction using Linear Regression & Gradient Descent
 
-A mini machine learning project built during my AI/ML postgraduate program at BITS Pilani. It predicts the cost of luggage bags based on real product data using various gradient descent techniques.
+A machine learning project predicting luggage bag prices based on real product attributes. Implemented Batch, Mini-Batch, and Stochastic Gradient Descent from scratch and compared them with scikit-learn’s Linear Regression. Applied data preprocessing, including missing value imputation, outlier handling, and feature scaling, and evaluated models using R², MSE, and RMSE, with visualizations to analyze performance.
 
 ---
 ![Project Thumbnail](thumbnail.jpeg)
